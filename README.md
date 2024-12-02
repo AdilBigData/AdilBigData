@@ -7,6 +7,10 @@
   <em>Driven by a passion for data analysis and artificial intelligence, I focus on transforming data into actionable insights through innovative and efficient solutions. Always eager to learn and explore new technologies.</em>
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" alt="Data Animation GIF" width="500"/>
+</p>
+
 ---
 
 - 📫 **How to reach me:** adil.elidrissi@eidia.ueuromed.org  
