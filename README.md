@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" alt="Data Animation GIF" width="500"/>
+  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" alt="Data Animation GIF" width="300"/>
 </p>
 
 ---
